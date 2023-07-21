@@ -200,6 +200,11 @@ body {
   display: block;
 }
 
+.card-footer span {
+  font-size: 1.7rem;
+  font-weight: bolder;
+}
+
 .text-dark {
   text-decoration: none;
   font-weight: bold;
